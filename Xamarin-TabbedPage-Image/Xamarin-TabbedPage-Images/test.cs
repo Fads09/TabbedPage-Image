@@ -11,7 +11,7 @@ namespace XamarinTabbedPageImages
             var image = new Image { Source = "image.jpg" };
             var image2 = new Image { Source = ImageSource.FromResource("XamarinTabbedPageImages.image.jpg") };
             var image3 = new Image { Source = " https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2016/08/Xamarin-logo.png" };
-            var image4 = new Image { Source = ImageSource.FromUri(new Uri(" https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2016/08/Xamarin-logo.png" )) };
+
             this.Title = "TabbedPage";
             this.Children.Add(new ContentPage
             {
@@ -48,14 +48,14 @@ namespace XamarinTabbedPageImages
 
             this.Children.Add(new ContentPage
             {
-                Title = "page4",
+                Title = "page3",
                 Icon = "ic_description",
                 Content = new StackLayout
                 {
                     Padding = 50,
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
-                            image4
+                            image3
                     }
 
                 }

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A064C376-3396-4CDA-AFBF-B3A367133270}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Projects/test1/test1/test2.cs">
+    <Files>
+      <File FileName="Xamarin-TabbedPage-Images/Xamarin-TabbedPage-Images.cs" Line="6" Column="2" />
+      <File FileName="Xamarin-TabbedPage-Images/test.cs" Line="12" Column="98" />
+      <File FileName="../../../Projects/test1/test1/test2.cs" Line="68" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin-TabbedPage-Images" expanded="True">
+            <Node name="Xamarin-TabbedPage-Images" expanded="True">
+              <Node name="test.cs" selected="True" />
+            </Node>
+            <Node name="Xamarin-TabbedPage-Images.Droid" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Xamarin-TabbedPage-Images.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Xamarin-TabbedPage-Images.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.651034A0-8819-41E8-B9DE-654F0FD281C3">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Xamarin-TabbedPage-Images.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

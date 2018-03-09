@@ -1,18 +1,20 @@
-﻿<Properties StartupConfiguration="{A064C376-3396-4CDA-AFBF-B3A367133270}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin-TabbedPage-Images/Xamarin-TabbedPage-Images.cs">
+﻿<Properties StartupConfiguration="{EED585C5-0EDF-4936-B1B5-16B2DB2FE7CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
       <File FileName="Xamarin-TabbedPage-Images/Xamarin-TabbedPage-Images.cs" Line="6" Column="2" />
-      <File FileName="Xamarin-TabbedPage-Images/test.cs" Line="12" Column="98" />
+      <File FileName="Xamarin-TabbedPage-Images/test.cs" Line="53" Column="31" />
+      <File FileName="Droid/MainActivity.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Xamarin-TabbedPage-Images" expanded="True">
-            <Node name="Xamarin-TabbedPage-Images" expanded="True">
-              <Node name="Xamarin-TabbedPage-Images.cs" selected="True" />
-            </Node>
+            <Node name="Xamarin-TabbedPage-Images" expanded="True" />
             <Node name="Xamarin-TabbedPage-Images.Droid" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>

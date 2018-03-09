@@ -10,7 +10,9 @@ namespace XamarinTabbedPageImages
         {
             var image = new Image { Source = "image.jpg" };
             var image2 = new Image { Source = ImageSource.FromResource("XamarinTabbedPageImages.image.jpg") };
-            var image3 = new Image { Source = " https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2016/08/Xamarin-logo.png" };
+            var webImage = new Image { Source = "https://xamarin.com/content/images/pages/forms/example-app.png" };
+
+           
 
             this.Title = "TabbedPage";
             this.Children.Add(new ContentPage
@@ -23,7 +25,7 @@ namespace XamarinTabbedPageImages
                     Padding = 50,
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
-                        image
+                          image
                         }
 
                 }
@@ -55,12 +57,15 @@ namespace XamarinTabbedPageImages
                     Padding = 50,
                     VerticalOptions = LayoutOptions.Center,
                     Children = {
-                            image3
-                    }
-
+                        webImage
+                     }
                 }
 
+
+
             });
+
+           
 
 
         }
